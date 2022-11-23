@@ -1,12 +1,4 @@
-# SETTLED.
-
-We solve problems, and problems are **settled**.
-
-## Project Logo
-
-<br/><img src="./assets/logo/full.png" alt="full logo" style="width:50%"><br/>
-
----
+<br/><div align="center"><img src="./assets/logo/full.png" alt="full logo" style="width: 50%"></div><br/>
 
 ## About This Project
 
